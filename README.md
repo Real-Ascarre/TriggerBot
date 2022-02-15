@@ -15,5 +15,6 @@ Steps to be followed:
 3. In the Cmd Type - "pip install -r Req.txt" and hit enter
 4. Open Game and Open this file 
 5. Whenever u want press the Keybind to activate 
-NOTE - It deactivates automatically after shooting so Activate it again)
 6. ENJOY!!
+
+(NOTE - It deactivates automatically after shooting so Activate it again)
