@@ -28,3 +28,8 @@ The current KeyBind is as Follows -
 Pressing 'e' or 'q' to ACTIVATE or DEACTIVATE
 and
 Pressing 'p' to Close the Script
+
+
+# Which Games does this work on?
+
+It works on Every Games, except the ones which doesnt allow or are exposd to mouse event, for example Valorant, you might try it but I guess it wont work.
