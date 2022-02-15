@@ -56,4 +56,4 @@ keybinds are the same - 'e' to activate and deactivate - 'p' to close the tab
 Guess what? You dont even need anything for this to run, its a standalone app so simply open and play, thats it....
 
 # Want to Follow me for more?
-Join my Telegram Channel I created recently - @ascarrehacks
+Join my Telegram Channel I created recently - https://t.me/ascarrehacks
