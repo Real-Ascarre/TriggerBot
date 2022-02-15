@@ -50,7 +50,7 @@ Steps to be followed
 8. DONE!!
 
 
-# Feeling Lazy and just wann plug n play? I got you
+# Feeling Lazy and just wanna plug n play? I got you
 Heres, a release of the same with 1920x1080 resolution, 
 keybinds are the same - 'e' to activate and deactivate - 'p' to close the tab
 Guess what? You dont even need anything for this to run, its a standalone app so simply open and play, thats it....
