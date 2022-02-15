@@ -20,7 +20,7 @@ if __name__ == '__main__':
     # start a while loop in order to loop infinitely and as fast as possible
     while True:
         # get the image at the position 955, 535 with 10 by 10 pixels
-        img = pyautogui.screenshot(region=(955, 535, 10, 10))
+        img = pyautogui.screenshot(region=(955, 535, 10, 10)) #The Max Pos areound the Cross Hair it will take account of, change the values if u have other resoultions
         # convert it to an array and calculate the sum of all values
         img = np.array(img)
         frame = np.array(img).sum() #take first frame
