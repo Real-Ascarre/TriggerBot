@@ -18,3 +18,13 @@ Steps to be followed:
 6. ENJOY!!
 
 (NOTE - It deactivates automatically after shooting so Activate it again)
+
+
+# What to do in Game ?
+
+First Open the game and then this script (by double click)
+
+The current KeyBind is as Follows - 
+Pressing 'e' or 'q' to ACTIVATE or DEACTIVATE
+and
+Pressing 'p' to Close the Script
