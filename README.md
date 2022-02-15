@@ -33,3 +33,19 @@ Pressing 'p' to Close the Script
 # Which Games does this work on?
 
 It works on Every Games, except the ones which doesnt allow or are exposd to mouse event, for example Valorant, you might try it but I guess it wont work.
+
+# What Resolutions does it work on?
+
+The current Reolution is 1920x1080, if you have other resolution then dont worry follow this steps to change the working flow of the script.
+
+Lets take an example of 1600x800 Resolution
+
+Steps to be followed
+1. Open Calculator
+2. Divide 1600 and 800 By 2 and note them (If u have other Resolutions put their dimensions and divide by 2)
+3. Then Subtract 5 from each and Note them.
+4. Now U Will have 2 new Dimension - 795, 395
+5. Now put this 2 inside the script on line - 23, which is -  img = pyautogui.screenshot(region=(955, 535, 10, 10))
+6. Remove the 955, 535 and put the new ones being, 795,395,
+7. So it will look like this Now -  img = pyautogui.screenshot(region=(795, 395, 10, 10))
+8. DONE!!
