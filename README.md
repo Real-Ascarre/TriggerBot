@@ -11,10 +11,10 @@ This code uses the Win32 MouseEvent function and shoots or say it mimics the rea
 
 Steps to be followed:
 1. Download and Install Python3 from official Website - https://www.python.org/downloads/
-2. Open Cmd and Open the path where u kept this file
+2. Open Cmd and Open the path where you kept this file
 3. In the Cmd Type - "pip install -r Req.txt" and hit enter
 4. Open Game and Open this file 
-5. Whenever u want press the Keybind to activate 
+5. Whenever you want, press the Keybind to activate 
 6. ENJOY!!
 
 (NOTE - It deactivates automatically after shooting so Activate it again)
